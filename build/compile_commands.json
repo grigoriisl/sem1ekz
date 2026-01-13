@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\main.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\main.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/main.cpp",
+  "output": "CMakeFiles/store.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\User.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\User.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/User.cpp",
+  "output": "CMakeFiles/store.dir/src/User.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\Admin.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\Admin.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/Admin.cpp",
+  "output": "CMakeFiles/store.dir/src/Admin.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\Manager.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\Manager.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/Manager.cpp",
+  "output": "CMakeFiles/store.dir/src/Manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\Customer.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\Customer.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/Customer.cpp",
+  "output": "CMakeFiles/store.dir/src/Customer.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\Order.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\Order.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/Order.cpp",
+  "output": "CMakeFiles/store.dir/src/Order.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\OrderItem.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\OrderItem.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/OrderItem.cpp",
+  "output": "CMakeFiles/store.dir/src/OrderItem.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\Product.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\Product.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/Product.cpp",
+  "output": "CMakeFiles/store.dir/src/Product.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\Payment.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\Payment.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/Payment.cpp",
+  "output": "CMakeFiles/store.dir/src/Payment.cpp.obj"
+},
+{
+  "directory": "C:/Users/grigr/.vscode/store/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/store.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\store.dir\\src\\PaymentStrategy.cpp.obj -c C:\\Users\\grigr\\.vscode\\store\\src\\PaymentStrategy.cpp",
+  "file": "C:/Users/grigr/.vscode/store/src/PaymentStrategy.cpp",
+  "output": "CMakeFiles/store.dir/src/PaymentStrategy.cpp.obj"
+}
+]
